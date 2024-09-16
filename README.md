@@ -31,10 +31,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 In this course, you will:
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+\
 
 ### How to start this course
 
