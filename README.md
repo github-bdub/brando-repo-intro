@@ -49,8 +49,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
    ![main-branch-dropdown](/images/main-branch-dropdown.png)
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+Zelda Tears of the Kingdom is a fire game
 
    ![create-branch-button](/images/create-branch-button.png)
 
