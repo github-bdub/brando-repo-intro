@@ -49,7 +49,8 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
    ![main-branch-dropdown](/images/main-branch-dropdown.png)
 
-Zelda Tears of the Kingdom is a fire game
+Zelda Tears of the Kingdom is a fire game. Amen brother!
+i love u
 
    ![create-branch-button](/images/create-branch-button.png)
 
